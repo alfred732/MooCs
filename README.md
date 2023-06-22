@@ -21,5 +21,29 @@ Para lo cual este analisis esta construido en base a esta pregunta:
 |**edxbi.pbix**|Aqui se encuentra el dashboard interactivo propuesto
 
 Todos los archivos se encuentran comentados para una facil comprension.
+## Conclusiones de analisis:
+## Edx
+- Las asignaturas de cursos mas demandadas son ciencias computacionales, gestión empresarial, comunicaciones y análisis de datos y estadística.
+- Mas del 70 % de la demanda de los cursos son introductorios
+- Mas del  90 % de la demanda de los cursos son en ingles
+- Los precios más demandados son de menos de 200 dólares
+- Para precios altos, los cursos avanzados generan mas ingresos a pesar de tener menos demanda.
+- Para el idioma español, los precios de menos de 40 dólares en español tiene mas demanda que el ingles además la mayoría son introductorios
+## Udemy
+- Los cursos de todos los niveles son los mas demandados y luego lo sigue los de principiante.
+- La demanda de matriculados para desarrollo web es mas del 60%
+- Casi el 70% de la demanda de los cursos son pagados
+- Su año con mas demanda de los cursos lanzados fue en marzo de 2016
+- En el nivel experto la categoría de financiación de empresas supera la demanda de desarrollo web
+## Coursera
+- La mayoria de cursos con mas demanda están relacionados ciencias computacionales
+- Los rating con mayor cantidad de estudiantes inscritos estan entre 4.4 y 4.9 puntos
+- El 50% de la dificultad mas demandada son de nivel principiante, seguida de mixed con 30%.
 
-## Referencias
+## Referencias:
+DATASET usado para analisis de Coursera:
+https://github.com/Siddharth1698/Coursera-Course-Dataset/blob/master/UCoursera_Courses.csv
+
+Ejemplos de EDA, en los cual me base:
+https://www.kaggle.com/code/azminetoushikwasi/coursera-eda-sentiment-analysis
+https://www.kaggle.com/code/suyashpratapsingh/eda-data-visualization-on-coursera-dataset
